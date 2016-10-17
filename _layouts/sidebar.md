@@ -1,3 +1,7 @@
+---
+layout: sidebar
+---
+
 <!DOCTYPE html>
 <html>
 

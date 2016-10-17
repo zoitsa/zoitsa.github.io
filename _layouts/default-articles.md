@@ -1,3 +1,7 @@
+---
+layout: default-articles
+---
+
 <!DOCTYPE html>
 <html>
 

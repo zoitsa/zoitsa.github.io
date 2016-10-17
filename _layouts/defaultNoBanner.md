@@ -1,3 +1,7 @@
+---
+layout: defaultNoBanner
+---
+
 <!DOCTYPE html>
 <html>
 
