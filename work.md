@@ -15,7 +15,7 @@ permalink: /work/
    {% for item in sorted %}
         <li class="project">
           <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
-          <h5>{{ item.title }}</i></a></h5>
+          <h5>{{ item.title }}</h5>
           <p>Skills: {{ item.skills }}</p>
           {% if item.thumbnail-path%}
             <img src="{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
