@@ -13,7 +13,7 @@ permalink: /work/
   <ul>
   {% for item in site.projects reversed | sort: 'date' %}
         <li class="project">
-          <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+          
           <h5>{{ item.title }}</i></a></h5>
           <p>Skills: {{ item.skills }}</p>
           {% if item.thumbnail-path%}
