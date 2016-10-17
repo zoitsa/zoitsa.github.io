@@ -9,7 +9,7 @@ permalink: /work/
 
 <div>
   <h2 class="page-heading">Projects</h2>
-  <p>Below are a few of my recent independent consulting projects. View more of my recent work at <a href="upstate.agency" target="_blank">Upstate Interactive</a>. I also have some code samples of front-end class projects on <a href="https://github.com/zoitsa" target="_blank">Github</a>.</p>
+  <p>Below are a few of my recent independent consulting projects. View more of my recent work at <a href="http://www.upstate.agency/" target="_blank">Upstate Interactive</a>. I also have some code samples of front-end class projects on <a href="https://github.com/zoitsa" target="_blank">Github</a>.</p>
   <ul>
    {% assign sorted = (site.projects | sort: 'date') | reverse %}
    {% for item in sorted %}
