@@ -1,3 +1,0 @@
-# zoitsa.github.io
-
-:wave:

@@ -1,0 +1,76 @@
+
+<div class="featured">
+	<div class="page-content">
+	<div class="wrapper">
+
+		<div>
+      	
+
+        <div>
+          <h4 class="page-heading">In the News</h4>
+          <ul class="articles">
+          {% for item in site.articles reversed | sort: 'date' %}
+                <li>
+                  <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+                  <p>
+                    <a href="{{ item.external_url }}">{{ item.title }} <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                  </p>
+                  
+                  <p>{{ item.excerpt }}</p>
+                </li>
+          {% endfor %}
+          </ul>
+        </div>
+
+          <!-- <ul>
+            <a href="http://uvc.org/startfast-code-fills-need-for-coding-resources-in-syracuse/" target="_blank">
+              <li>
+                <p>StartFast Code Fills Need for Coding Resources in Syracuse</p>
+              </li>
+            </a>
+            <a href="https://medium.com/@hackupstate/seeking-your-brain-power-19bab4c9fab9#.nbbsk08br">
+              <li>
+                <p>Seeking Your Brain Power</p>
+              </li>
+            </a>
+            <a href="https://medium.com/@hackupstate/the-people-behind-the-code-zoe-koulouris-9bfea031efa8#.raq8nmlwl">
+              <li>
+                <p>The People Behind The Code: Zoe Koulouris</p>
+              </li>
+            </a>
+            <a href="https://medium.com/@hackupstate/coding-tech-lightning-talks-e2cfb18ff3d8#.9hll53j4u" target="_blank">
+              <li>
+                <p>Coding and Tech Lightning Talks: Hosted by Zoe Koulouris</p>
+              </li>
+            </a>
+             <a href="http://www.omicsonline.org/open-access/increased-interaction-with-weight-loss-app-increases-likelihood-ofsustained-weight-loss-2161-1017-1000210.php?aid=65642" target="_blank">
+              <li>
+                <p>Increased Interaction with Weight Loss App Increases Likelihood of Sustained Weight Loss<p>
+              </li>
+            </a>
+          </ul> -->
+
+
+<!--         <ul class="post-list">
+          {% for post in site.categories.articles %}
+
+            <li>
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+              <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              </h2>
+              {{ post.excerpt}}
+            </li>
+          {% endfor %}
+        </ul>
+
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>
+
+
+	</div> <!--wrapper-->
+	</div> <!--page-content-->
+</div>
+
