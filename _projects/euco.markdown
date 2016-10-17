@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Website Relaunch with Product-focused Redesign for 3Pound Health, LLC."
-date:   2016-02-11
+date:   2016-02-11 00:00:00 -0500
 skills: Squarespace, Copywriting, Demo videos
 categories: recent-work
 thumbnail-path: /img/euco/euco-responsive.png

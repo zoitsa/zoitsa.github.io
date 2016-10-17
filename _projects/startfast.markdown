@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Communcations for StartFast Venture Accelerator, the #1 Startup Accelerator in Upstate, NY"
-date:   2016-06-16
+date:   2016-06-16 00:00:00 -0500
 categories: recent-work
 skills: Video Interviews, iMovie, Mailchimp Newsletter
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/7UBO8YyGU3s?list=PLIHaa_RNnS6yd4UkYdB7W99trOfyTFS5A" frameborder="0" allowfullscreen></iframe>

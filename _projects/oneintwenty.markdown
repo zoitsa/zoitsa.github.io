@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pixels & Print Design Workshop: Web Development Team for oneintwenty.org"
-date:   2016-05-16
+date:   2016-05-16 00:00:00 -0500
 categories: recent-work
 thumbnail-path: /img/oneintwenty/oneintwenty-responsive.png
 skills: Custom Squarespace Theme, HTML5, CSS3, Javascript, jQuery, JSON, Markdown, Git, Bootstrap, Masonry, Dropbox Integration, Jot Form Integration, Spanish translation with Bablic.  
