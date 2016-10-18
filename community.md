@@ -15,7 +15,7 @@ permalink: /community/
         <div class="row">
         <article>
           <div class="col-xs-12 col-sm-6">
-          <h5>{{ post.title }}</h5>
+            <a href="{{ post.external_url }}"><h5>{{ post.title }} <i class="fa fa-long-arrow-right" aria-hidden="true"></i></h5></a>
           <p>{{ post.excerpt}}</p>
         </div> <!--col-->
           <div class="col-xs-12 col-sm-6">
