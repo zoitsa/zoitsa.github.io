@@ -21,7 +21,7 @@ permalink: /work/
             <img src="{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
           {% endif %}
           <p>{{ item.excerpt }}</p>
-          <p> {{ item.video}}</p>
+          <div class="video">{{ item.video}}</div>
         </li>
   {% endfor %}
   </ul>

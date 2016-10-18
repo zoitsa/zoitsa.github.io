@@ -408,8 +408,15 @@ h5 {
     font-style: italic;
 }
 
-body {
-  overflow-y: scroll;
-  overflow-x: hidden; 
-  -webkit-overflow-scrolling: touch;
-}
+@media (max-width: 500px) {
+      
+     div.video iframe {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+
+
+  }
+
