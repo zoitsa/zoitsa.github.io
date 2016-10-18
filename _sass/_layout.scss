@@ -28,7 +28,9 @@
     height: 50px;
 }
 
-
+div.showcase {
+    width: 100%;
+}
 
 .showcase {
     width: 100%; 
@@ -36,7 +38,7 @@
     z-index: 1;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: center;
+    background-position: fixed;
     background-size: cover;
     position: relative;
     background-color: #86D5D0;
