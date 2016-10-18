@@ -17,7 +17,7 @@ permalink: /work/
           <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
           <h5>{{ item.title }}</h5>
           <p>Skills: {{ item.skills }}</p>
-          {% if item.thumbnail-path%}
+          {% if item.thumbnail-path %}
             <img src="{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
           {% endif %}
           <p>{{ item.excerpt }}</p>
