@@ -11,10 +11,10 @@ $(document).ready(function() {
 			}); //css
 		}
 
-		$(window).resize(function () {
-		location.reload();
-		resizeShowcase();
-		}); //resize
+		// $(window).resize(function () {
+		// location.reload();
+		// resizeShowcase();
+		// }); //resize
 
 	resizeShowcase();
 
