@@ -85,13 +85,19 @@ li.project {
 
 li.education {
     padding-left: 1.3em;
+    margin-top: 2%;
 }
 li.education:before {
     content: "\f19d"; /* FontAwesome Unicode */
+    margin-right: 1%;
   font-family: FontAwesome;
   display: inline-block;
   margin-left: -1.3em; /* same as padding-left set on li */
   width: 1.3em; /* same as padding-left set on li */
+}
+
+.articles li {
+    margin-top: 2%;
 }
 
 

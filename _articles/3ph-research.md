@@ -5,5 +5,3 @@ external_url: "http://www.omicsonline.org/open-access/increased-interaction-with
 date:   2015-12-15
 categories: articles
 ---
-
-This is my excerpt

@@ -5,5 +5,3 @@ external_url: "http://uvc.org/startfast-code-fills-need-for-coding-resources-in-
 date:   2016-04-19
 categories: articles
 ---
-
-This is my excerpt

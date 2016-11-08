@@ -5,5 +5,3 @@ external_url: "https://medium.com/@hackupstate/seeking-your-brain-power-19bab4c9
 date:   2016-03-04
 categories: articles
 ---
-
-This is my excerpt

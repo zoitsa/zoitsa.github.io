@@ -5,5 +5,3 @@ external_url: "https://medium.com/@hackupstate/the-people-behind-the-code-zoe-ko
 date:   2015-12-04
 categories: articles
 ---
-
-This is my excerpt

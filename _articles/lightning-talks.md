@@ -5,5 +5,3 @@ external_url: "https://medium.com/@hackupstate/coding-tech-lightning-talks-e2cfb
 date:   2015-10-30
 categories: articles
 ---
-
-This is my excerpt
