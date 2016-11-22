@@ -198,11 +198,15 @@ button.btn.btn-primary {
 
     ul.box-area-block {
         display: none;
-
     }
 
     .school-info {
         margin-left: 20px;
+
+        li {
+            margin-left: 30px;
+            list-style: circle;
+        }
     }
 
 
@@ -397,6 +401,7 @@ button.btn.btn-primary {
 
 .articles li p {
     margin: 0px;
+
 }
 
 h5 {
